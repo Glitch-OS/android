@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="glitch"
+       fetch="https://github.com/Glitch-OS/"
+       revision="refs/heads/hardbrick" />
+
+  <!-- GlitchOS -->
+  <project path="android" name="android" remote="glitch" />
+</manifest>
