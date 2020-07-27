@@ -30,4 +30,5 @@
   <project path="build/blueprint" name="android_build_blueprint" remote="glitch" groups="pdk,tradefed" />
   <project path="vendor/lineage" name="android_vendor_glitch" remote="glitch" />
   <project path="lineage-sdk" name="android_lineage-sdk" remote="glitch" />
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="glitch" groups="pdk-fs" />
 </manifest>
